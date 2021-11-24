@@ -1,0 +1,54 @@
+3m co.,medium-cap,198.13,219.98,hold
+abbott lab.,large-cap,122.17,98.78,sell
+abbvie inc.,large-cap,114.45,160,buy
+adobe inc.,mega-cap,631.38,780.98,buy
+air canada,small-cap,25.05,28.63,hold
+alibaba,mega-cap,196.39,350.89,buy
+alphabet inc.,mega-cap,2740.72,2560.98,sell
+amazon,mega-cap,3344.94,2998.77,sell
+american express,large-cap,171.36,160.9,hold
+amgen inc.,large-cap,230.15,268.98,buy
+apple,mega-cap,146.14,190,buy
+at&t,large-cap,27.96,30.98,hold
+baidu,mega-cap,164.26,250.98,buy
+bank of america,mega-cap,40.15,40,hold
+Barrick Gold,Large-Cap,89.98,119.9,Buy
+berkshire hathaway,mega-cap,430160,490100,buy
+boeing,large-cap,231.33,260.98,buy
+broadcom inc.,large-cap,485.43,420.78,hold
+caterpillar inc.,medium-cap,208.35,260,buy
+chegg,small-cap,83.95,72.89,sell
+chevron crop.,large-cap,101.95,140.98,buy
+chipotle mexican grill,medium-cap,1887.15,1900.98,hold
+cisco systems,mega-cap,55.59,78.9,buy
+coca-cola,large-cap,56.64,60,hold
+comcast corp.,mega-cap,58.69,89.78,buy
+costco,large-cap,439.63,400,sell
+dell,medium-cap,98.54,101.98,hold
+disney,mega-cap,177.13,290.98,buy
+dominion energy,medium-cap,76,85,hold
+doordash,medium-cap,181.56,151.98,sell
+dow inc.,small-cap,62,80.98,buy
+estee lauder,medium-cap,328.83,385.67,buy
+exxon mobil,mega-cap,57.86,78.65,buy
+facebook,mega-cap,363.51,320.9,sell
+gamestop,small-cap,151.77,100.05,sell
+goldman sachs,large-cap,397.89,398.98,hold
+honeywell international,large-cap,229.68,232.9,hold
+ibm corp.,large-cap,144.09,150.78,buy
+intel,large-cap,53.92,86.87,buy
+jd.com,large-cap,69.59,90.09,buy
+johnson & johnson,mega-cap,173.11,150.98,hold
+jp morgan chase and co.,mega-cap,157.5,170.98,buy
+kirkland lake gold,small-cap,41.02,42.09,hold
+logitech,small-cap,107.38,120.09,buy
+mastercard inc.,mega-cap,374.53,400.09,buy
+mcdonald's corp.,large-cap,236.26,220.09,sell
+merck & co. inc.,large-cap,75.44,60.09,sell
+microsoft,mega-cap,289.46,315.89,buy
+morgan stanley,large-cap,99.73,98.9,hold
+netflix,mega-cap,520.55,500,hold
+nike inc.,mega-cap,172.8,190.98,buy
+nio,small-cap,78,54,sell
+Tata group,Mega-cap,760,1200.98,Buy
+walmart inc.,mega-cap,145.89,160.99,buy
